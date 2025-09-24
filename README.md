@@ -24,6 +24,12 @@ The project pioneers a **CRISPR–Cas13b–based epitranscriptomic tool (dm6ACRI
 
 ---
 
+## 🖼️ Graphical Abstract
+
+![dm6ACRISPR Graphical Abstract](https://github.com/zunairanureen/RNA_Demethylation/blob/main/pic.jpg)
+
+---
+
 ## 🧬 Key Features
 
 * **Precision Editing**: Overcomes limitations of existing RNA methylation methods by avoiding broad epigenetic changes.
