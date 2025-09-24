@@ -1,6 +1,11 @@
 
 # Targeted mRNA Demethylation in Maize Using dCas13b-ALKBH5 Fusion Protein
 
+## 📄 Project Proposal
+
+[Download / View Full Proposal (PDF)](./final_proposal.pdf)
+
+
 ## 📖 Overview
 
 This repository hosts resources, documentation, and supporting materials for the research project:
